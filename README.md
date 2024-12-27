@@ -7,7 +7,9 @@ Additionally, The software includes a calculator to track how much amount spent 
 Features :
 
 Worker management : track worker details, as well as work- related details.
+
 Customer Management : Store customer data and order details.
+
 Expense Calculator : track how much amount spent for weekly, monthly and yearly basis.
 
 Technologies used :
